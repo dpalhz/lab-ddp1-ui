@@ -1,0 +1,23 @@
+Ceritakanlah pengalamanmu dalam melakukan instalasi python, mengerjakan
+Lab00, atau hal-hal lainnya yang berkaitan dengan pemrograman. Refleksimu
+harus mengandung, namun tidak terbatas pada, poin-poin berikut ini.
+        
+        a. Kesulitan dan/atau kendala saat melakukan instalasi python dan
+           pengerjaan Lab00 jika ada.
+        b. Nilai kemampuan programming kamu dari skala 1 (tidak bisa sama
+           sekali) sampai 5 (sangat mahir) disertai dengan alasan.
+        c. Ekspektasi dan harapan untuk asisten dosen (asdos) DDP1.
+ Jawaban:
+
+    a. Saat proses penginstalan Python kali ini, saya tidak merasa kesulitan dalam melakukannya.
+    b. Menurut saya, nilai kemampuan pemrogramming saya berada pada skala 2 karena saya sudah cukup 
+       familiar dengan pengodingan dan saya sudah mulai belajar koding 1 bulan dari yang lalu
+       menggunakan bahasa pemrograman Python. Meskipun begitu, saya masih perlu banyak 
+       berlatih, khususnya dalam problem solving, dan belajar lebih giat lagi.
+    c. Ekspektasi dan harapan saya kepada asisten dosen, di antaranya:
+                1. Ekspektasi saya kepada asisten dosen, yaitu asisten dosen bersikap sabar, 
+                   ramah, dan murah hati dalam membimbing kami semua yang kesusahan dalam 
+                   proses pembelajaran ini.
+                2. Harapa saya, asdos dapat membantu dan membimbing kami, khususnya maba yang belum 
+                   mengerti materi menjadi lebih baik lagi di DDP1.
+                
